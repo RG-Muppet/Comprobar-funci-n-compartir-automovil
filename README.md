@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Proyecto del Segundo Sprint: Función de Compartir Automóvil en Urban Routes</title>
 </head>
 <body>
 
